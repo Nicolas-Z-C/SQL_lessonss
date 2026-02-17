@@ -1,0 +1,15 @@
+ALTER TABLE ADD x TO y
+
+--Agrega
+
+ALTER TABLE RENAME x TO y
+
+--CAMBIA NOMBRE
+
+ALTER TABLE MODIFY x VARCHAR(800)
+
+--modifica
+
+ALTER TABLE DROP X
+
+--petatea
