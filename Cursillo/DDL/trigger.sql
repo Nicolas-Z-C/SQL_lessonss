@@ -1,0 +1,8 @@
+CREATE TRIGGER tg_natributo 
+AFTER|BEFORE INSTERT|DELETE|UPDATE|(COMANDO QUE SEA)
+ON n_tabla
+FOR EACH ROW
+BEGIN 
+/*Codigo sql a ejecutarse
+*/
+END;
